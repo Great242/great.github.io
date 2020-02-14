@@ -10,7 +10,7 @@
 <li><a href="index.html">home</a></li>
 <li><a href="#">About</a></li>
 <li><a href="portfolio.md">Portfolio</a></li>
-<li><a href="contactUs.md">Contact</a></li></ul>
+<li><a href="contactUs.html">Contact</a></li></ul>
 <p align="Center"> PLEASE, I AM STILL LEARNING OH!!!!</p>
 <p>
 <form action="submita.md">
