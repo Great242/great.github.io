@@ -1,16 +1,19 @@
-<title>OBI GREAT BLOG</title></head>
-<p align="center"><img src="pa.jpg" width="200px"></p>
+<html>
+ <head>
+ OBI GREAT BLOG
+  <head>
+<p align="center"><img src="https://lh3.googleusercontent.com/proxy/69FZ2AOqnCyFNja3NVBwpsp6RpBE3AlqVBkipu2MHrVvLCnFxjepN1KHVoM_kYwZ9u2tmXHwoEqdnZ_gPcIIIbst5Y_i4z2VlZT2CCgEBkWs0h3K9RsGd-QU6d6tjZ297hXc4dqHtBhaZlOjYNdF" width="200px"></p>
 <body>
 <h1><b><p align="center">MY HOME BLOG</b></p></h1>
 <ul style="position:static; border:3px solid #73AD21">
 <form action="contact.php" method="get">
-<li><a href="newnice.html">home</a></li>
+<li><a href="index.html">home</a></li>
 <li><a href="#">About</a></li>
-<li><a href="#">Portfolio</a></li>
-<li><a href="contactUs.html">Contact</a></li></ul>
+<li><a href="portfolio.md">Portfolio</a></li>
+<li><a href="contactUs.md">Contact</a></li></ul>
 <p align="Center"> PLEASE, I AM STILL LEARNING OH!!!!</p>
 <p>
-<form action="submita.html">
+<form action="submita.md">
 <h3><label>Enter your name</label></h3>
 <input />
 </p>
@@ -74,3 +77,5 @@ Google 2020 and Beyond</p>
 Today, Google continues what it calls a "relentless search for better answers" as its core business philosophy.
 The company also continues to build on its all-star lineup of products and services, and in 2015, remodeled its business structure with parent company Alphabet
  now running Google and its expansive presence with offices in 50 countries around the world. How expansive? Alphabet reported $110.9 billion in 2017 revenues, with a net income profit </p>
+ 
+ </html>
